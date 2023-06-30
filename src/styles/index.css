@@ -38,9 +38,15 @@
 .trafficLightTop {
     background: black;
     width: 10px;
-    height: 150px;
-    margin: auto;
+    height: 100px;
+    margin: 0 auto;
     
-   
+}
+
+.btn {
+    
+    position: absolute;
+    top:50%;
+    left: 50px;
 
 }
